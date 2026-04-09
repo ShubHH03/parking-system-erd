@@ -5,7 +5,6 @@ This repository contains the Entity Relationship Diagram (ERD) and schema struct
 ## Included Entities / Schemas
 - vehicles
 - vehicle_categories
-- parking_rates
 - parking_spots
 - spot_categories
 - parking_levels
