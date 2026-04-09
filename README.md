@@ -1,0 +1,11 @@
+# Comic-Con Parking System ERD
+
+This repository contains the Entity Relationship Diagram (ERD) and schema structure for the Parking System.
+
+## Included Entities / Schemas
+
+## Purpose
+To document and visualize how core entities connect in the application.
+
+## Cardinality Legend
+In cardinality, green line represents 1:N and purple represents 1:1.
